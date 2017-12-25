@@ -1,0 +1,1083 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html  xml:lang="en-US" lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head"><!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NP3R7WT');</script>
+<!-- End Google Tag Manager --><title>
+	25 Books to Read Before You Die - Powell's Books
+</title><meta http-equiv="X-UA-Compatible" content="IE=10" /><meta id="MetaDescription" name="DESCRIPTION" content="We opted to present a collection of books that has the ability to change the way you think and feel and reflects our diverse interests here at Powell&#39;s. We hope you enjoy our suggestions." /><meta id="MetaKeywords" name="KEYWORDS" content="25 Books to Read Before You Die, books that change the way you think, Powell&#39;s Books staff favorite books, must read books, Powell&#39;s employees favorite books, must read books in your lifetime, books to read, top 10 books to read, top 25 must read books, must read books, books to read before you die, interesting books to read, best books to read, 10 must read books, top 10 books to read before you die, top 10 novels to read, books worth reading, top ten books to read, must read novels, best books" /><meta id="MetaCopyright" name="COPYRIGHT" content="© 2015 Powells.com" /><meta id="MetaAuthor" name="AUTHOR" content="Used, New, and Out of Print Books - We Buy and Sell - Powell&#39;s Books" /><meta name="DISTRIBUTION" content="GLOBAL" /><meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW" />
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    <meta content="text/javascript" http-equiv="Content-Script-Type" />
+    <meta content="text/css" http-equiv="Content-Style-Type" />
+    <meta name="RESOURCE-TYPE" content="DOCUMENT" />
+    <meta name="REVISIT-AFTER" content="1 DAYS" />
+    <meta name="RATING" content="GENERAL" />
+    <meta http-equiv="PAGE-ENTER" content="RevealTrans(Duration=0,Transition=1)" />
+    <!-- ======Mobile Specific Metas========== -->
+	<!-- SD# 28903 Fix -->
+	<meta name="format-detection" content="telephone=no" /><meta name="HandheldFriendly" content="true" /><meta name="MobileOptimized" content="480" /><meta name="viewport" content="initial-scale=1.0, maximum-scale=2.0, width=device-width" /><style id="StylePlaceholder" type="text/css"></style><link href="/Portals/_default/default.css?cdv=2488" media="all" type="text/css" rel="stylesheet"/><link href="/DesktopModules/HTML/module.css?cdv=2488" media="all" type="text/css" rel="stylesheet"/><link href="/Portals/_default/Skins/Powells/skin.css?cdv=2488" media="all" type="text/css" rel="stylesheet"/><link href="/Portals/_default/Containers/Powells/container.css?cdv=2488" media="all" type="text/css" rel="stylesheet"/><link href="/Portals/0/portal.css?cdv=2488" media="all" type="text/css" rel="stylesheet"/><script src="/Resources/libraries/jQuery/01_09_01/jquery.js?cdv=2488" type="text/javascript"></script><script src="/Resources/libraries/jQuery-Migrate/01_02_01/jquery-migrate.js?cdv=2488" type="text/javascript"></script><script src="/Resources/libraries/jQuery-UI/01_10_03/jquery-ui.js?cdv=2488" type="text/javascript"></script><link rel="stylesheet" href="Portals/_default/print.css" type="text/css" media="print" /><link rel="stylesheet" href="Portals/_default/ImageSlider.css" type="text/css" />
+    <!--[if IE 8]>
+    <link rel="stylesheet" type="text/css" href="http://www.powells.com/ie8Spec.css" />
+    <![endif]-->
+    <!--[if IE 8]>
+    <link rel="stylesheet" type="text/css" href="http://www.powells.com/portals/_default/skins/Powells/superfish/ie8superfish.css" />
+    <![endif]-->
+      <!--[if lt IE 9]>
+    <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+   <!--[if lt IE 9]>
+<script src="superfish/modernizr.js"></script>
+<![endif]-->
+<script language="javascript" type="text/javascript">
+    (function ($) { $.fn.hoverIntent = function (f, g) { var cfg = { sensitivity: 7, interval: 100, timeout: 0 }; cfg = $.extend(cfg, g ? { over: f, out: g} : f); var cX, cY, pX, pY; var track = function (ev) { cX = ev.pageX; cY = ev.pageY }; var compare = function (ev, ob) { ob.hoverIntent_t = clearTimeout(ob.hoverIntent_t); if ((Math.abs(pX - cX) + Math.abs(pY - cY)) < cfg.sensitivity) { $(ob).unbind("mousemove", track); ob.hoverIntent_s = 1; return cfg.over.apply(ob, [ev]) } else { pX = cX; pY = cY; ob.hoverIntent_t = setTimeout(function () { compare(ev, ob) }, cfg.interval) } }; var delay = function (ev, ob) { ob.hoverIntent_t = clearTimeout(ob.hoverIntent_t); ob.hoverIntent_s = 0; return cfg.out.apply(ob, [ev]) }; var handleHover = function (e) { var ev = jQuery.extend({}, e); var ob = this; if (ob.hoverIntent_t) { ob.hoverIntent_t = clearTimeout(ob.hoverIntent_t) } if (e.type == "mouseenter") { pX = ev.pageX; pY = ev.pageY; $(ob).bind("mousemove", track); if (ob.hoverIntent_s != 1) { ob.hoverIntent_t = setTimeout(function () { compare(ev, ob) }, cfg.interval) } } else { $(ob).unbind("mousemove", track); if (ob.hoverIntent_s == 1) { ob.hoverIntent_t = setTimeout(function () { delay(ev, ob) }, cfg.timeout) } } }; return this.bind('mouseenter', handleHover).bind('mouseleave', handleHover) } })(jQuery);
+</script>
+ <script src="/JS/jquery-migrate-1.2.1.min.js" type="text/javascript"></script>
+    <script language="javascript" type="text/javascript">
+
+
+
+        var PageURL = "", MessageIds = 0, AppFabricURL = "", _dataResponse = 0, _jsLoaded = 0;
+
+        var shareThisTitle = "Product Name";
+        var shareThisImage = "http://www.powells.com/Portals/0/Images/cover.jpg";
+        var shareThisUrl = "http://www.powells.com/";
+        var shareThisSummary = "Get insider deals, freebies, and other special offers sent to your inbox!";
+
+        function SetAllVariable() {
+            PageURL = arguments[0];
+            AppFabricURL = arguments[1];
+        }
+        function LoadValidationJS() {
+            MessageIds = arguments[0];
+            var jsName = PageURL + "js/powellsValidationData.js"
+            $.getScript(jsName, function () {
+                var wcfURL = AppFabricURL + "/GetValidationMessages?messageIDs=" + MessageIds;
+                MakeDBReq(onGetValiationData, wcfURL);
+            });
+        }
+
+        function LoadOnlineCalenderJS() {
+            var jsName = PageURL + "js/fullcalendar.min.js?" + Math.floor((Math.random() * 1000) + 1);
+            $.getScript(jsName, function () { _jsLoaded = 1; });
+        }
+
+        function LoadCalenderJS() {
+            var jsName = PageURL + "js/fullcalendar.js?" + Math.floor((Math.random() * 1000) + 1);
+            $.getScript(jsName, function () { _jsLoaded = 1; });
+        }
+
+        function LoadAnyJS() {
+            var jsName = PageURL + arguments[0];
+            $.getScript(jsName, function () {
+                _jsLoaded = 1;
+            });
+        }
+
+        function toggleSiteAdmin() {
+            $('ul.siteAdmin1').each(function (index) {
+                $(this).hide("slow");
+            });
+            $('span.siteAdminPlus').each(function (index) {
+                $(this).text("+");
+            });
+            if (arguments[2] != null) {
+                var $link = $("#" + arguments[2]);
+                $("#" + arguments[0]).is(":visible") ? $link.text("+") : $link.html(" -&nbsp;");
+            }
+            if (arguments[0] != null)
+                $("#" + arguments[0]).slideToggle("slow");
+        }
+
+        function OpenDropDown(sender, args) {
+
+            var bool = sender.get_dropDownVisible();
+            if (bool != true)
+                sender.showDropDown();
+        }
+
+    </script>
+	<script>
+		(function (i, s, o, g, r, a, m) {
+			i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+				(i[r].q = i[r].q || []).push(arguments)
+			}, i[r].l = 1 * new Date(); a = s.createElement(o),
+	  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+		})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+		ga('create', 'UA-1889218-1', 'auto');
+		ga('send', 'pageview');
+		ga('require', 'ecommerce', 'ecommerce.js');
+	</script>
+<link rel="canonical" href="http://www.powells.com/25-books-to-read-before-you-die" /><link rel='SHORTCUT ICON' href='/Portals/0/favicon.ico' type='image/x-icon' /><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, minimal-ui" /><link rel="stylesheet" type="text/css" href="/Portals/_default/Skins/Powells/superfish/superfish.css"></link></head>
+<body id="Body">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NP3R7WT" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><form name="Form" method="post" action="/25-books-to-read-before-you-die" id="Form" enctype="multipart/form-data">
+<div>
+<input type="hidden" name="StylesheetManager_TSSM" id="StylesheetManager_TSSM" value="" />
+<input type="hidden" name="ScriptManager_TSM" id="ScriptManager_TSM" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="8xHEc63atq29wpGUsbMVn2UV42z+rhshFVby71pw9V+DTdSQkfZj/AugHVN4Pii4sMAwPKm7QlUVa2Vuu+/mKFPNi9m+BmRP9/ToLZdUnxlxUFDoMoO0o2873R5MqVykGu0ZFZm8IhtsXJK+PplJ0beaL2ZJocGtgmvss7xviR06Zj+545S5XhX5oNvpJBjUeIVMFzKM1s632SUps21lPD3z3BPBlfAFYtM8eVORUkREucM34lxkOZ9OYBuCYZLRG1WbO7tdaBiG4U0toVzSrITN+GSXAkScUbtkbsW2xnVQjtXqG+VREbOea7WsPCTP+FLHKeokNI+K9QaxARmI4SDxq5Qbnm3Uw/9bLC5L8ZV+uV9E5/v4JG5bJR/Ppy84K+27MGvLpkVnEBRoewgolSEFVux4ZADMxJ93HA==" />
+</div>
+
+
+<script type="text/javascript">
+//<![CDATA[
+var SolrServerUrl = 'http://com-solr.powells.com/solr/kst1m/select';var SolrSearchURLAutoComplete = '';var SecureSolrSearchURLAutoComplete = '';var SecureSolrServerUrl = 'https://com-solr.powells.com/solr/kst1m/select';var HostUrl = 'http://www.powells.com';var AdvanceSearchPage = '';var SearchResultPage = 'SearchResults';//]]>
+</script>
+<script type="text/javascript">if (!(window.jQuery && window.jQuery.fn && window.jQuery.fn.hoverIntent)) document.write(unescape('%3Cscript src="/Portals/_default/Skins/Powells/superfish/hoverIntent.js" type="text/javascript"%3E%3C/script%3E'));</script><script type="text/javascript">if (!(window.jQuery && window.jQuery.fn && window.jQuery.fn.superfish)) document.write(unescape('%3Cscript src="/Portals/_default/Skins/Powells/superfish/superfish.js" type="text/javascript"%3E%3C/script%3E'));</script>
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ScriptManager_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-US%3ac74bde9a-1893-4f98-b797-3df47821ad0a%3aea597d4b%3ab25378d2" type="text/javascript"></script>
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+</div><script src="/js/dnn.modalpopup.js?cdv=2488" type="text/javascript"></script><script src="/Resources/Shared/Scripts/jquery/jquery.hoverIntent.min.js?cdv=2488" type="text/javascript"></script><script src="/js/placeholders.js?cdv=2488" type="text/javascript"></script><script src="/Portals/_default/Skins/Powells/js/jquery.cycle.min.js?cdv=2488" type="text/javascript"></script><script src="/js/dnncore.js?cdv=2488" type="text/javascript"></script><script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', ['tdnn$ctr2988$CartSummary$uptCartSummary',''], [], [], 90, '');
+//]]>
+</script>
+
+        
+        
+        
+
+
+<!--CDF(Javascript|/Portals/_default/Skins/Powells/js/jquery.cycle.min.js?cdv=2488)-->
+
+<!--[if lt IE 7]> <html class="ie6 oldie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 oldie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 oldie"> <![endif]-->
+<!--[if gt IE 8]><!-->
+
+<!--<![endif]-->
+
+<!-- 
+Do the following if you're using your customized build of modernizr (http://www.modernizr.com/):
+* insert the link to your js here
+* remove the link below to the html5shiv
+* add the "no-js" class to the html tags at the top
+* you can also remove the link to respond.min.js if you included the MQ Polyfill in your modernizr build 
+-->
+<!--[if lt IE 9]>
+<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+<!--[if lt IE 9]>
+<script src="superfish/modernizr.js"></script>
+<![endif]-->
+
+<script src="/Portals/_default/Skins/Powells/js/imagesloaded.pkgd.min.js"></script>
+<script src="/Portals/_default/Skins/Powells/js/jquery.matchHeight.js" type="text/javascript"></script>
+<script src="/Portals/_default/Skins/Powells/js/jquery.dotdotdot.min.js" type="text/javascript"></script>
+<script src="/Portals/_default/Skins/Powells/js/common.js" type="text/javascript"></script>
+<!-- classic skin powells -->
+<div class="classicSkin">
+<div class="">
+<div id="LayoutDiv1">
+  <div id="dnn_TopAdBannerPane"><div class="DnnModule DnnModule-DNN_HTML DnnModule-9258"><a name="9258"></a>
+
+<!-- Classic Powell's Containers | Invisible Container | 01.00.00 -->
+<div class="invisible">
+    <div id="dnn_ctr9258_ContentPane"><!-- Start_Module_9258 --><div id="dnn_ctr9258_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	
+<div id="dnn_ctr9258_HtmlModule_lblContent" class="Normal">
+	<!-- main skinny banner -->
+<div style="height: 30px; background: url('http://www.powells.com/portals/0/Images/skinny-banner-POTS-2017.png') 0% 0% repeat scroll transparent;"><a href="/picks-of-the-season-2017" onclick="ga('send', 'event', 'promotions', 'masthead', 'picks of the season');"><img src="/portals/0/clearpixel.gif" alt="Picks of the Season" width="100%" height="30px " /></a></div>
+<!-- scheduled maintenance banner
+<div style="height: 30px; background: transparent url('/portals/0/images/skinny-banner-scheduled-maintenance-60-2016.jpg') no-repeat scroll 0px 0%;"><img width="100%" height="30px " title="Beginning at midnight (PT), we will be offline for scheduled maintenance." alt="Beginning at midnight (PT), we will be offline for one hour for scheduled maintenance. " src="/portals/0/clearpixel.gif" /></div>
+-->
+</div>
+
+</div><!-- End_Module_9258 --></div>
+</div>
+
+
+
+</div></div>
+  <div id="page_structur"> 
+    <!-- header --> 
+    <div id="header" role="banner">
+  <div class="logo">
+    <a id="dnn_dnnLogo_hypLogo" title="Used, New, and Out of Print Books - We Buy and Sell - Powell&#39;s Books" href="http://www.powells.com/"><img id="dnn_dnnLogo_imgLogo" src="/Portals/0/logo-0714.jpg" alt="Used, New, and Out of Print Books - We Buy and Sell - Powell&#39;s Books" style="border-width:0px;" /></a>
+  </div>
+  <table border="0" cellspacing="0" cellpadding="0" style="float:right;clear:right;" class="m-view">
+    <tr>
+      <td><div id="dnn_TopCartPane" class="cart-right" role="navigation" aria-label="utility"> <div class="DnnModule DnnModule-CHK_CartSummary DnnModule-2988"><a name="2988"></a>
+
+<!-- Classic Powell's Containers | Invisible Container | 01.00.00 -->
+<div class="invisible">
+    <div id="dnn_ctr2988_ContentPane"><!-- Start_Module_2988 --><div id="dnn_ctr2988_ModuleContent" class="DNNModuleContent ModCHKCartSummaryC">
+	
+<style type="text/css">
+.tinytext{font-size:10px;}
+</style>
+<div id="dnn_ctr2988_CartSummary_uptCartSummary" style="&lt;!--[if IE 8]>min-width:50px;white-space: nowrap;&lt;![endif]-->">
+		
+<a id="aCartSummary" title="Shopping Cart" class="tinytext" style="font-weight: bold; text-transform: uppercase;" href="javascript:__doPostBack(&#39;dnn$ctr2988$CartSummary$aCartSummary&#39;,&#39;&#39;)">Cart </a><span class="mToplink">|</span>
+
+	</div>
+
+
+</div><!-- End_Module_2988 --></div>
+</div>
+
+
+
+</div></div></td>
+      <td><div id="dnn_TopRightPane" class="top-right" role="navigation" aria-label="utility"> <div class="DnnModule DnnModule-DNN_HTML DnnModule-539"><a name="539"></a>
+
+<!-- Classic Powell's Containers | Invisible Container | 01.00.00 -->
+<div class="invisible">
+    <div id="dnn_ctr539_ContentPane"><!-- Start_Module_539 --><div id="dnn_ctr539_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	
+<div id="dnn_ctr539_HtmlModule_lblContent" class="Normal">
+	|&nbsp;&nbsp;<a href="/myaccount" target="_self">my account</a> <span class="mToplink">&nbsp;|&nbsp;&nbsp;<a href="/myaccount/wishlist/publicwishlist">wish list</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/info/help">help</a>&nbsp;</span>&nbsp;&nbsp;|&nbsp;&nbsp;<a style="border-left: 0px none;" class="tel" href="tel:18008787323"><span style="text-transform: uppercase; font-size: 12px; border-left: 0px none;">800-878-7323</span></a>
+</div>
+
+</div><!-- End_Module_539 --></div>
+</div>
+
+
+
+</div></div></td>
+      <td><div id="dnn_TopSiteSearchPane" class="siteSearch DNNEmptyPane"> </div></td>
+    </tr>
+  </table>
+  <div id="Login" style="margin-right:3px;" role="navigation" aria-label="utility"><b>Hello,
+    
+
+    |
+    <a id="dnn_dnnLogin_loginLink" title="Login" class="emphasis" rel="nofollow" onclick="return http://www.powells.com/login?returnurl=/25-books-to-read-before-you-die" href="http://www.powells.com/login?returnurl=%2f25-books-to-read-before-you-die">Login</a>
+
+    </b>
+    <div class="language-object" >
+
+
+</div>
+  </div>
+  <div id="dnn_TopSearchPane" class="search"> <div class="DnnModule DnnModule-Search DnnModule-1336"><a name="1336"></a>
+
+<!-- Classic Powell's Containers | Invisible Container | 01.00.00 -->
+<div class="invisible">
+    <div id="dnn_ctr1336_ContentPane"><!-- Start_Module_1336 --><div id="dnn_ctr1336_ModuleContent" class="DNNModuleContent ModSearchC">
+	<!--CDF(Javascript|/js/placeholders.js?cdv=2488)-->
+<script type="text/javascript" src='/js/SolrSearchResults.js'></script>
+
+<style type="text/css">
+    #search-solr-wrapper {
+    }
+
+        #search-solr-wrapper > span {
+            display: inline-block;
+            float: left;
+        }
+
+
+
+    #selectSolrFilter {
+        height: 24px;
+        border: none;
+        font-weight: bold;
+        color: #575757 !important;
+        font-size: 10px;
+        z-index: 999;
+        padding-top: 3px;
+        padding-left: 5px;
+        padding-bottom: 3px;
+        padding-right: 0;
+        background: none repeat scroll 0 0 #e0e0e0;
+        margin-left: 5px;
+        width: auto;
+    }
+
+    li.selected {
+        background-color: ActiveCaption;
+    }
+
+    #suggestionDiv > li:hover {
+        background-color: ActiveCaption;
+    }
+
+    @media only screen and (min-width: 781px) {
+        #search-solr-wrapper input[type="text"] {
+            width: 394px;
+        }
+    }
+</style>
+<div id="dnn_ctr1336_ViewSearch_pnlViewSearch">
+		
+
+    
+    <div id="search-solr-wrapper">
+        <input type="hidden" name="dnn$ctr1336$ViewSearch$hfQueryStringKw" id="dnn_ctr1336_ViewSearch_hfQueryStringKw" />
+        <span>
+            <input name="dnn$ctr1336$ViewSearch$txtSolrSearch" type="text" id="dnn_ctr1336_ViewSearch_txtSolrSearch" class="search-box1" placeholder="Enter Keyword, Title, Author, Subject, or ISBN" autocomplete="off" onKeyUp="" aria-label="Search. Enter Keyword, Title, Author, Subject, or ISBN" />
+        </span>
+        <span>
+            <select id="selectSolrFilter" aria-label="Search Type">
+                <option value="All Books">All Books</option>
+                <option value="New">New</option>
+                <option value="Used">Used</option>
+            </select>
+        </span>
+        <span style="padding-left: 4px; height: 24px !important; padding-top: 0px;">
+            <input type="submit" name="dnn$ctr1336$ViewSearch$btnSolrSearch" value="SEARCH" id="dnn_ctr1336_ViewSearch_btnSolrSearch" class="btnSearch" style="cursor: pointer; outline: none;" />
+        </span>
+        <span>
+            <a href="http://www.powells.com/AdvancedSearch.aspx?previousModuleTabID=1501" id="dnn_ctr1336_ViewSearch_aAdvanceSearch" class="search-small" onclick="AdvanceSearchClick()" target="_self">advanced</a>
+            <input type="submit" name="dnn$ctr1336$ViewSearch$btnAdvanceSearch" value="CallMe" id="dnn_ctr1336_ViewSearch_btnAdvanceSearch" style="display: none;" />
+
+        </span>
+    </div>
+    <div id="suggestionDiv" class="suggest" style="background-color: white; width: 400px; visibility: hidden; position: absolute; display: inline-block; z-index: 99999; overflow: hidden">
+    </div>
+
+	</div>
+<script type="text/javascript">
+    var AJAX_HIT = '';
+    var li = $('.suggest li');
+    var liSelected;
+    $(document).ready(function () {
+        if ($('#search-solr-wrapper').css('display') != 'none') {
+            $("#dnn_ctr1336_ViewSearch_txtSolrSearch").focus();
+        }
+        ($(window).width() <= 780)
+        {
+            $("#dnn_ctr1336_ViewSearch_txtSolrSearch").blur();
+        }
+
+        $('#selectSolrFilter').on('change', function () {
+            $("#dnn_ctr1336_ViewSearch_txtSolrSearch").focus();
+            SearchPredictiveData();
+        });
+
+        $('#search-solr-wrapper,#search-solr-wrapper>span,#search-solr-wrapper table,#search-solr-wrapper tr').css('height', '24px');
+
+    });
+
+    $("#dnn_ctr1336_ViewSearch_btnSolrSearch").click(function (event) {
+        var siteSearch = new PowellsSearch();
+        if ($("#dnn_ctr1336_ViewSearch_txtSolrSearch").val() != '') {
+            siteSearch.GetResultantUrl($("#dnn_ctr1336_ViewSearch_txtSolrSearch").val(), $("#dnn_ctr1336_ViewSearch_hfQueryStringKw"), event);
+        }
+        else {
+            return false;
+        }
+    })
+
+    function GetPredictiveData(searchText) {
+        var self = this;
+        var query = '';
+        var predictiveArray = [];
+        if (location.protocol == 'https:') {
+            SolrSearchURLAutoComplete = SeacureSolrSearchURLAutoComplete;
+        }
+        searchText = searchText.replace("&", "");
+        query = self.buildSearchParamsForPredictiveText(searchText);
+        if (query != '') {
+            $.support.cors = true
+            AJAX_HIT = $.ajax({
+                url: SolrSearchURLAutoComplete,
+                dataType: 'jsonp',
+                data: query,
+                cache: false,
+                traditional: true,
+                jsonp: 'json.wrf',
+                success: function (result) {
+                    var uniqueData = [];
+                    var recvData = result.suggest['AutoComplete'][searchText].suggestions;
+                    for (var i = 0 ; i < recvData.length ; ++i) {
+                        if (uniqueData.indexOf(recvData[i]['term'].toLowerCase().trim()) == -1)
+                            uniqueData.push(recvData[i]['term'].toLowerCase().trim());
+                    }
+                    for (var i = 0; i < uniqueData.length; i++) {
+                        var title = uniqueData[i];
+                        var fqValue = '';
+                        if (predictiveArray.indexOf(title) == -1) {
+                            predictiveArray.push(title);
+
+                            document.getElementById("suggestionDiv").style.visibility = 'visible'
+                            fqValue = $('#selectSolrFilter').val() != 'All Books' ? '&fq=accounting_category :' + $('#selectSolrFilter').val().toString() : '';
+                            $('#suggestionDiv').append('<li style="list-style: none; margin-bottom:5px; text-transform: capitalize; overflow:hidden; white-space: nowrap"><a style="display:block; white-space: nowrap" name="' + title.replace(/<b>|<\/b>/g, '') + '" href="' + HostUrl + '/SearchResults?kw=title:' + title.replace(/<b>|<\/b>|<|(|\?|:|.|\n|)|\*|>/g, '').replace(/&|:|"/g, ' ') + fqValue + '"><span class="tab">' + title + '</span></a></li>');
+                        }
+                    }
+                }
+            })
+        }
+    }
+
+    function buildSearchParamsForPredictiveText(searchText) {
+        var queryString = '';
+        var self = this;
+        queryString = 'suggest=true&wt=json&suggest.q=' + searchText;
+        return queryString;
+    }
+
+    $(document).on("blur", ".selected", function () {
+        $(this).removeClass("selected");
+    });
+
+    $(document).mouseup(function (e) {
+        var container = $('#suggestionDiv');
+
+        if (!container.is(e.target) // if the target of the click isn't the container...
+            && container.has(e.target).length === 0) // ... nor a descendant of the container
+        {
+            container.hide();
+        }
+    });
+
+    $(window).keyup(function (e) {
+        $('#suggestionDiv').show(0);
+        li = $('.suggest li');
+        if (e.keyCode == 40 || e.keyCode == 38) {
+            if (e.which === 40) {
+                if (liSelected) {
+                    liSelected.removeClass('selected');
+                    next = liSelected.next();
+                    if (next.length > 0) {
+                        liSelected = next.addClass('selected');
+                        $("#dnn_ctr1336_ViewSearch_txtSolrSearch").val(liSelected[0].childNodes[0].name);
+                    } else {
+                        liSelected = li.eq(0).addClass('selected');
+                        $("#dnn_ctr1336_ViewSearch_txtSolrSearch").val(liSelected[0].childNodes[0].name);
+                    }
+                } else {
+                    liSelected = li.eq(0).addClass('selected');
+                    $("#dnn_ctr1336_ViewSearch_txtSolrSearch").val(liSelected[0].childNodes[0].name);
+                }
+            } else if (e.which === 38) {
+                if (liSelected) {
+                    liSelected.removeClass('selected');
+                    next = liSelected.prev();
+                    if (next.length > 0) {
+                        liSelected = next.addClass('selected');
+                        $("#dnn_ctr1336_ViewSearch_txtSolrSearch").val(liSelected[0].childNodes[0].name);
+                    } else {
+                        liSelected = li.last().addClass('selected');
+                        $("#dnn_ctr1336_ViewSearch_txtSolrSearch").val(liSelected[0].childNodes[0].name);
+                    }
+                } else {
+                    liSelected = li.last().addClass('selected');
+                    $("#dnn_ctr1336_ViewSearch_txtSolrSearch").val(liSelected[0].childNodes[0].name);
+                }
+            }
+    }
+    else {
+        if (self.AJAX_HIT && self.AJAX_HIT.readyState != 4) {
+            AJAX_HIT.abort();
+        }
+        SearchPredictiveData();
+    }
+    });
+
+    function SearchPredictiveData()
+    {
+        var searchedKeyword = $("#dnn_ctr1336_ViewSearch_txtSolrSearch").val();
+        document.getElementById("suggestionDiv").innerHTML = '';
+        if (searchedKeyword.length > 3) {
+            if (SolrSearchURLAutoComplete) {
+                GetPredictiveData(searchedKeyword);
+            }
+        }
+    }
+</script>
+
+</div><!-- End_Module_1336 --></div>
+</div>
+
+
+
+</div></div>
+</div>
+ 
+    
+    <!-- menu --> 
+    <script type="text/javascript">
+	//initialise plugins
+	jQuery(document).ready(function($){
+		$("#menu-icon").on("click", function(){
+			jQuery(".sf-menu").slideToggle();
+			jQuery(this).toggleClass("active");
+		});
+	});
+	jQuery(document).ready(function($){
+		$("#leftbar").on("click", function(){
+			jQuery(".middle-left").slideToggle();
+			jQuery(this).toggleClass("active");
+		});
+	});
+</script>
+
+<div id="sf-menu" class="applePie" role="navigation" aria-label="main"> 
+  <!--<div class="menubtn" id="menubtn">Menu Button</div>--> 
+  <a id="menu-icon" class="met_bgcolor met_bgcolor_transition2" style="">MENU</a>
+  <div class="sf-menu res-menu">
+    <!-- DDRmenu v02.00.01 - superfish template --><script type="text/javascript">
+			jQuery(function($) {
+				$("#dnn_ctl01").superfish(
+					{onShow:function() { if ($.browser.msie) this[0].style.removeAttribute('filter'); },MenuStyle:"superfish"}
+				);
+			});
+
+
+		</script><ul class="sf-menu" id="dnn_ctl01">
+  <li><a href="http://www.powells.com/subjects">Browse</a><ul class="override">
+      <li><a href="http://www.powells.com/browse/new-arrivals">New Arrivals</a></li>
+      <li><a href="http://www.powells.com/bestsellers">Bestsellers</a></li>
+      <li><a href="http://www.powells.com/awards">Award Winners</a></li>
+      <li><a href="http://www.powells.com/signed-preorders">Signed Preorders</a></li>
+      <li><a href="http://www.powells.com/signed-editions">Signed Editions</a></li>
+      <li><a href="http://www.powells.com/digital-audio-books">Digital Audio Books</a></li>
+      <li><a href="http://www.powells.com/daily-dose">Daily Dose</a></li>
+      <li><a href="http://www.powells.com/myaccount/newsletters">Newsletters</a></li>
+      <li><a href="http://www.powells.com/subjects">See All Subjects</a></li>
+    </ul>
+  </li>
+  <li><a href="http://www.powells.com/used">Used</a></li>
+  <li class="current"><a href="http://www.powells.com/staff-picks">Staff Picks</a><ul class="override">
+      <li><a href="http://www.powells.com/staff-picks">Staff Picks</a></li>
+      <li><a href="http://www.powells.com/picks-of-the-season-2017">Picks of the Season</a></li>
+      <li><a href="http://www.powells.com/post/lists/powells-midyear-roundup-best-books-of-2017-so-far">Best Books of 2017 So Far</a></li>
+      <li><a href="http://www.powells.com/staff-top-fives-2016">Staff Top Fives 2016</a></li>
+      <li><a href="http://www.powells.com/pictureboox">Boox</a></li>
+      <li><a href="http://www.powells.com/indiespensable">Indiespensable</a></li>
+      <li><a href="http://www.powells.com/post/lists/25-books-to-read-before-you-die-world-edition">25 Global Books to Read Before You Die</a></li>
+      <li><a href="http://www.powells.com/25-women-to-read-before-you-die">25 Women to Read Before You Die</a></li>
+      <li class="current"><a href="http://www.powells.com/25-books-to-read-before-you-die">25 Books to Read Before You Die</a></li>
+    </ul>
+  </li>
+  <li><a href="http://www.powells.com/gifts/giftcards">Gifts + Gift Cards</a><ul class="override">
+      <li><a href="http://www.powells.com/picks-of-the-season-2017">Picks of the Season</a></li>
+      <li><a href="http://www.powells.com/gifts/giftcards">Gift Cards & eGift Cards</a></li>
+      <li><a href="http://www.powells.com/souvenirs">Powell's Souvenirs</a></li>
+      <li><a href="http://www.powells.com/read-rise-resist">Read Rise Resist Gear</a></li>
+      <li><a href="http://www.powells.com/books/calendars-notebooks-and-gifts/journals-and-notebooks">Journals & Notebooks</a></li>
+      <li><a href="http://www.powells.com/books/calendars-notebooks-and-gifts/board-games">Games</a></li>
+      <li><a href="http://www.powells.com/books/calendars-notebooks-and-gifts/socks">Socks</a></li>
+    </ul>
+  </li>
+  <li><a href="http://www.powells.com/sell-books">Sell Books</a><ul class="override">
+      <li><a href="http://www.powells.com/sell-books">Sell Books Online</a></li>
+      <li><a href="http://www.powells.com/sell-books-stores">Sell Books in Our Stores</a></li>
+    </ul>
+  </li>
+  <li><a href="http://www.powells.com/blog">Blog</a></li>
+  <li><a href="http://www.powells.com/calendar">Events</a></li>
+  <li><a href="http://www.powells.com/locations">Find A Store</a></li>
+</ul>
+  </div>
+</div>
+
+    <div class="wrapper">
+      <div id="content">
+        <div id="table">
+          <div id="row">
+            <div id="middleCol" class="">
+              <div id="dnn_ContentPane" class="middle-center"> <div class="DnnModule DnnModule-DNN_HTML DnnModule-10304"><a name="10304"></a>
+
+<!-- Classic Powell's Containers | Invisible Container | 01.00.00 -->
+<div class="invisible">
+    <div id="dnn_ctr10304_ContentPane"><!-- Start_Module_10304 --><div id="dnn_ctr10304_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	
+<div id="dnn_ctr10304_HtmlModule_lblContent" class="Normal">
+	<style type="text/css">
+    #tablediv {
+    max-width:800px;}
+    #content {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    }
+    <!--
+div.readbefore_cover { margin: 3px 10px 0px 0px; padding: 0px 0px 0px 0px; float:left; }
+div.readbefore_box { margin: 0px 0px 30px 0px; }
+
+p.title { margin: 0px 0px 0px 0px ; padding: 0px 0px 0px 0px; font-size:large;  font-weight:bold; line-height:100%; }
+p.author { margin: 0px 0px 5px 0px ; font-weight:bold; padding: 0px 10px 0px 0px; }
+p.blurb { margin: 0px 0px 0px 0px ; padding: 0px 0px 0px 0px; text-align:left;}
+h3 {font-size:18pt; font-weight:bold; line-height:100%;}
+-->
+</style>
+<h1 style="margin: 0px; text-align: center;"><img style="max-width: 100%;" alt="25 Books to Read Before You Die" src="/portals/0/landing-page-25-books-2014.jpg" /></h1>
+<div id="tablediv">
+<table style="padding-top: 10px;" id="readbefore" width="100%" cellspacing="0" cellpadding="0" border="0">
+    <tbody>
+        <tr>
+            <td>A few months back, one of our customers sent us a special request for a list of 10 books we felt everyone absolutely must read in his or her lifetime. The question intrigued us and we immediately launched into a heated debate. Should the Bible be on the list? No text has influenced Western culture more, but might it be equally important to read the Koran or the Torah for a more enlightened worldview? Shakespeare seemed like a given, but how to choose between <a href="/book/hamlet-9781402795916"><strong>Hamlet</strong></a> and <a href="/book/sonnets-poems-of-love-9780312744991"><strong>The Sonnets</strong></a>, between <a href="/book/midsummer-nights-dream-9780743477543"><strong>A Midsummer Night's Dream</strong></a> and <a href="/book/king-lear-signet-classics-9780451526939"><strong>King Lear</strong></a>? And what of lesser-known works &mdash; things like <a href="/book/rings-of-saturn-9780811214131"><strong>The Rings of Saturn</strong></a> or <a href="/book/bluets-9781933517407"><strong>Bluets</strong></a> or <a href="/book/no-no-boy-9780295955254"><strong>No-No Boy</strong></a> or <a href="/book/book-of-disquiet-9780141183046"><strong>The Book of Disquiet</strong></a>? How could we whittle down our list to just 10 books?<br />
+            <br />
+            As it turns out, we couldn't. We posed the question to our fellow book-savvy colleagues and, after receiving some 1,400 nominations(!) and putting it to a vote, we ultimately settled on 25 titles. Instead of worrying so much about what <em>had</em> to be included, we opted to present a collection of books that has the ability to change the way you think and feel and reflects our diverse interests here at Powell's. We hope you enjoy our suggestions.<br />
+            <br />
+            <a href="/portals/0/images/25-books-to-read-before-you-die.pdf"><strong>Printable PDF of the 25 Books to Read Before You Die</strong></a></td>
+        </tr>
+    </tbody>
+</table>
+<hr align="left" />
+<table id="readbefore" width="100%" cellspacing="0" cellpadding="0" border="0">
+    <tbody>
+        <tr>
+            <td>
+            <div class="readbefore_box">
+            <div class="readbefore_cover">
+            <a href="/book/2666-9780312429218" rel="powells-9780312429218"><img src="http://covers.powells.com/9780312429218.jpg" style="border: 1px solid #a0a0a0;" alt="2666" /></a></div>
+            <h3><a href="/book/2666-9780312429218">2666</a></h3>
+            <p class="author">by Roberto Bola&ntilde;o</p>
+            <p class="blurb">Completed in 2003 shortly before his death, <em>2666</em> is not only Roberto Bola&ntilde;o's masterpiece but also one of the finest and most important novels of the 21st century. It's an entire world unto itself, one &mdash; not unlike our own &mdash; filled with horror, neglect, depravity, brilliance, and beauty. Epic in scope and epitomizing the "total novel," <em>2666</em> fuses many different genres and styles to create a singular and unforgettable work of contemporary fiction. While Bola&ntilde;o's swan song marked the pinnacle of a sadly truncated literary career, his immense talent, creativity, and vision endure.
+            <strong>&ndash; <a href="/staff-picks/jeremy-g">Jeremy</a></strong></p>
+            </div>
+            <br clear="all" />
+            <div class="readbefore_box">
+            <div class="readbefore_cover">
+            <a href="/book/all-about-love-new-visions-9780060959470" rel="powells-9780060959470"><img src="http://covers.powells.com/9780060959470.jpg" style="border: 1px solid #a0a0a0;" alt="All about Love" /></a></div>
+            <h3><a href="/book/all-about-love-new-visions-9780060959470"> All about Love </a></h3>
+            <p class="author">by bell hooks</p>
+            <p class="blurb">We're taught to think of love as something that happens to us. It's a magical but altogether passive experience. In her deeply personal and emphatic <em>All about Love</em>, renowned social activist and feminist bell hooks asserts that, in fact, love is a choice we must all make and it's not nearly as abstract or elusive as many of us have come to believe. The book not only explores the role of love in our lives and the ways our culture has distorted its meaning, but guides us &mdash; with clear definitions and examples &mdash; toward a better understanding of how to cultivate it. If you've ever wondered why some relationships stand the test of time while others crumble, you should read this book.
+            <br />
+            <strong>&ndash; <a href="/staff-picks/renee-p">Renee P.</a> </strong></p>
+            </div>
+            <div class="readbefore_box">
+            <div class="readbefore_cover">
+            <a href="/book/desert-solitaire-9780671695880" rel="powells-9780671695880"><img src="http://covers.powells.com/9780671695880.jpg" style="border: 1px solid #a0a0a0;" alt="Desert Solitaire by Edward Abbey" /></a></div>
+            <h3><a href="/book/desert-solitaire-9780671695880"> Desert Solitaire </a></h3>
+            <p class="author">by Edward Abbey</p>
+            <p class="blurb">No author encapsulated and celebrated the American Southwest more engagingly than iconoclast and raconteur Edward Abbey. <em>Desert Solitaire: A Season in the Wilderness</em> &mdash; now nearly a half-century old &mdash; is a classic of environmental writing. In this autobiographical work, Abbey chronicles his time as a park ranger and reflects on landscape, culture, politics, tourism, environmental disregard, and degradation &mdash; doing so with a unique blend of ornery charm and breathtaking description. Though set in his beloved Southwest, <em>Desert Solitaire</em> beautifully and brashly captures the essence of the American outdoors, replete with disdain for those who'd seek to spoil its natural wonder.
+            <strong>&ndash; <a href="/staff-picks/jeremy-g">Jeremy</a></strong></p>
+            </div>
+            <div class="readbefore_box">
+            <div class="readbefore_cover">
+            <a href="/book/disgrace-9780140296402" rel="powells-9780140296402"><img src="http://covers.powells.com/9780140296402.jpg" style="border: 1px solid #a0a0a0;" alt="Disgrace" /></a></div>
+            <h3><a href="/book/disgrace-9780140296402"> Disgrace </a></h3>
+            <p class="author">by J. M. Coetzee </p>
+            <p class="blurb">One afternoon while talking with a friend about books, I wondered how to best describe my experience of reading <em>Disgrace</em>, and this is what I came up with: it's like a finely crafted, very sharp knife resting gently against your skin. The uneasiness and suspense are there from the beginning, made all the more powerful by Coetzee's control and use of spare language, and you never really take a deep breath until it's all over. Set in modern South Africa, the book explores what it's like to personally confront deep prejudices. Prejudices of gender, sexuality, class, and race. Far from being a politically correct diatribe, this novel is about how we cope, how we survive as humans, and it forces the reader to reflect upon what seems at first a very twisted reality. For each of the characters in this astonishing novel, redemption is attained through what becomes the very reshaping of their souls.
+            <strong>&ndash; <a href="/staff-picks">Rebecca</a></strong></p>
+            </div>
+            <div class="readbefore_box">
+            <div class="readbefore_cover">
+            <a href=" http://com-test-web1.powells.com//book/geek-love-9780375713347" rel="powells-9780375713347"><img src="http://covers.powells.com/9780375713347.jpg" style="border: 1px solid #a0a0a0;" alt="Geek Love" /></a></div>
+            <h3><a href="/book/geek-love-9780375713347'"> Geek Love </a></h3>
+            <p class="author">by Katherine Dunn</p>
+            <p class="blurb">This is the book I recommend more than any other &mdash; I can barely hold onto a copy of it because I am always giving it away to anyone who I think needs something that will blow the top of their skull off. On one level, it is the engaging, creepy, and extraordinary story of a family of purposely designed circus freaks, as told by the hunchback albino dwarf sister. On another level, it is a story about identity and belonging: How do you define yourself in terms of your family? Your culture? Your body? Your religion? How do you know what or who you really are?
+            <strong>&ndash; </strong><strong><a href="/staff-picks">Lizzy</a></strong></p>
+            </div>
+            <br clear="all" />
+            <div class="readbefore_box">
+            <div class="readbefore_cover">
+            <a href="/book/gilead-9780312424404" rel="powells-9780312424404"><img src="http://covers.powells.com/9780312424404.jpg" style="border: 1px solid #a0a0a0;" alt="Gilead" /></a></div>
+            <h3><a href="/book/gilead-9780312424404"> Gilead </a></h3>
+            <p class="author">by Marilynne Robinson </p>
+            <p class="blurb">Set in 1956, Marilynne Robinson's <em>Gilead</em> is a letter from the elderly Reverend John Ames to his very young son. Ames has lived all of his life in Gilead, Iowa, and the novel delves into the history of the area through the characters of Ames's father and grandfather &mdash; also ministers, but deeply divided on ideas such as pacifism, duty, and the abolitionist movement. And eventually, when John Ames Boughton, Ames's namesake and godson, returns to Gilead, he brings up old tensions and sets events in motion that disturb Ames's formerly peaceful last days. <em>Gilead</em> is one of the most beautifully written books of the new century thus far, and Robinson's incredibly insightful grappling with faith, mortality, and what constitutes a meaningful life will resonate with readers across every spectrum.
+            <strong>&ndash; <a href="/staff-picks/jill-owens">Jill</a></strong></p>
+            </div>
+            <div class="readbefore_box">
+            <div class="readbefore_cover">
+            <a href="/book/giovannis-room-9780345806567" rel="powells-9780345806567"><img src="http://covers.powells.com/9780345806567.jpg" style="border: 1px solid #a0a0a0;" alt="Giovanni's Room" /></a></div>
+            <h3><a href="/book/giovannis-room-9780345806567"> Giovanni's Room </a></h3>
+            <p class="author">by James Baldwin </p>
+            <p class="blurb">It would be difficult to talk about James Baldwin's <em>Giovanni's Room</em> and not touch on the simple fact that this slim novel, published in 1956, is mainly a love story between two men. It seems impossible to think such a thing could be published pre-Stonewall, but such is the genius of Baldwin and the way he captures the complexities of desire, love, and the tragic cost that comes from not following your heart. "Somebody&hellip;should have told us that not many people have ever died of love. But multitudes have perished&hellip;for the lack of it." This emotional wonder of a book comes down to two things: love and death. And really, what else is there in life?
+            <strong>&ndash; <a href="/staff-picks">Kate</a></strong></p>
+            </div>
+            <div class="readbefore_box">
+            <div class="readbefore_cover">
+            <a href="/book/good-man-is-hard-to-find-other-stories-9780156364652" rel="powells-9780156364652"><img src="http://covers.powells.com/9780156364652.jpg" style="border: 1px solid #a0a0a0;" alt="A Good Man Is Hard to Find and Other Stories " /></a></div>
+            <h3><a href="/book/good-man-is-hard-to-find-other-stories-9780156364652"> A Good Man Is Hard to Find and Other Stories </a></h3>
+            <p class="author">by Flannery O'Connor </p>
+            <p class="blurb">Flannery O'Connor's first short story collection, written in 1955, will knock you off your feet. Ruthless, penetrating, and loaded with subtext, <em>A Good Man Is Hard to Find and Other Stories</em> was brave for its time and feels just as consequential today. Writing in the Southern Gothic tradition in a style wholly her own, O'Connor creates characters that are misguided, stunted curiosities, but she manages to capture what's human in even the most despicable of people &mdash; which makes their doomed trajectories feel all the more tragic. And despite the disturbing events that unfold, the stories are a pleasure to read &mdash; they're infused with suspense, dark humor, and some of the most evocative imagery you'll encounter in literature. All this makes for a collection that never ceases to amaze &mdash; and begs to be reread.
+            <strong>&ndash; <a href="/staff-picks/renee-p">Renee P.</a> </strong></p>
+            </div>
+            <div class="readbefore_box">
+            <div class="readbefore_cover">
+            <a href="/book/handmaids-tale-9780385490818" rel="powells-9780385490818"><img src="http://covers.powells.com/9780385490818.jpg" style="border: 1px solid #a0a0a0;" alt="The Handmaid's Tale" /></a></div>
+            <h3><a href="/book/handmaids-tale-9780385490818"> The Handmaid's Tale </a></h3>
+            <p class="author">by Margaret Atwood </p>
+            <p class="blurb">Atwood's classic dystopian novel of a terrifying (and terrifyingly plausible) future America has rewarded rereading like no other book; I've probably read it 30 times by now. The world of the narrator, Offred (from "Of Fred" &mdash; women no longer have their own names), is chilling, but she is a magnificent survivor and chronicler, and the details of everything from mundane daily life to ritualized sex and violence to her reminiscences of the time before (our contemporary reality, as seen in the '80s) are absolutely realistic. The novel is as relevant today as ever; feminist backlashes continue to wax and wane, but women's rights remain in the spotlight. And despite its scenarios of great despair, <em>The Handmaid's Tale</em> is ultimately a hopeful book &mdash; Offred, and others, simply cannot be human without the possibility of hope, and therein lies the strength of the resistance. All of Atwood is worth reading, but this book best exemplifies the cultural and psychological impact that a work of fiction can create.
+            <strong>&ndash; <a href="/staff-picks/jill-owens">Jill</a></strong></p>
+            </div>
+            <div class="readbefore_box">
+            <div class="readbefore_cover">
+            <a href="/book/hitchhikers-guide-to-the-galaxy-9780345418913" rel="powells-9780345418913"><img src="http://covers.powells.com/9780345418913.jpg" style="border: 1px solid #a0a0a0;" alt="The Hitchhiker's Guide to the Galaxy" /></a></div>
+            <h3><a href="/book/hitchhikers-guide-to-the-galaxy-9780345418913"> The Hitchhiker's Guide to the Galaxy </a></h3>
+            <p class="author">by Douglas Adams </p>
+            <p class="blurb">Parodying practically every well-worn sci-fi plot device in existence, Adams's <em>Hitchhiker's Guide to the Galaxy</em> has become a classic in its own right. A hapless hero with astonishing luck? Ill-tempered aliens hell-bent on destroying Earth? Pithy advice (e.g., "DON'T PANIC")? Check, check, and check &mdash; and so much more. Even non&ndash;sci-fi geeks will be charmed by this hilarious and endlessly entertaining read, with (of course) sequels following.
+            <br />
+            <strong>&ndash; <a href="/staff-picks/jen-c">Jen C.</a> </strong></p>
+            </div>
+            <br clear="all" />
+            <div class="readbefore_box">
+            <div class="readbefore_cover">
+            <a href="/book/if-on-a-winters-night-a-traveler-9780156439619" rel="powells-9780156439619"><img src="http://covers.powells.com/9780156439619.jpg" style="border: 1px solid #a0a0a0;" alt="If on a Winter's Night a Traveler" /></a></div>
+            <h3><a href="/book/if-on-a-winters-night-a-traveler-9780156439619"> If on a Winter's Night a Traveler </a></h3>
+            <p class="author">by Italo Calvino </p>
+            <p class="blurb">For those with an amorous affair with books, <em>If on a Winter's Night a Traveler</em> may well be the ultimate love letter to the reader. Calvino's novel is a masterfully created, startlingly unique work of fiction. Told alternately in second- and third-person narratives, the book is a fascinating exploration of the relationship between the author and the reader &ndash; weaving together seemingly unrelated tales, all of which relate directly to you, the reader. At its core is an ingenious concept the likes of which could have only come from the unparalleled imagination of Calvino. By the time you reach its dazzling conclusion, you'll be wishing you could somehow read it again for the very first time.
+            <br />
+            <strong>&ndash; <a href="/staff-picks/jeremy-g">Jeremy</a></strong></p>
+            </div>
+            <div class="readbefore_box">
+            <div class="readbefore_cover">
+            <a href="/book/infinite-jest-9780316066525" rel="powells-9780316066525"><img src="http://covers.powells.com/9780316066525.jpg" style="border: 1px solid #a0a0a0;" alt="Infinite Jest" /></a></div>
+            <h3><a href=" http://com-test-web1.powells.com/book/infinite-jest-9780316066525"> Infinite Jest </a></h3>
+            <p class="author">by David Foster Wallace </p>
+            <p class="blurb"><em>Infinite Jest</em> is unique; it was bred in the optimism and new frontiersmanship of the dot-com 1990s but was simultaneously an early omen of where we are today. It looks into our present beyond what were only horizons when it was written: the tensions of a global economy, the opiate of on-demand entertainment, the near-impossible pursuit of greatness in a winner-take-all society. Tennis phenoms struggle in an absurdly demanding academy and recovering addicts search for something strong enough to help them through, all while a cadre of legless Quebecois assassins search for a movie so entertaining that they plan to use it as a weapon. At turns madcap and heart-wrenching, this is the tour-de-force novel of the forces that have shaped our new millennium and will likely continue shaping it for decades to come. </p>
+            <strong>&ndash; <a href="/staff-picks">Tye</a></strong></div>
+            <div class="readbefore_box">
+            <div class="readbefore_cover">
+            <a href="/book/left-hand-of-darkness-9780441007318" rel="powells-9780441007318"><img src="http://covers.powells.com/9780441007318.jpg" style="border: 1px solid #a0a0a0;" alt="The Left Hand of Darkness" /></a></div>
+            <h3><a href="/book/left-hand-of-darkness-9780441007318"> The Left Hand of Darkness </a></h3>
+            <p class="author">by Ursula K. Le Guin </p>
+            <p class="blurb">Not only is <em>The Left Hand of Darkness</em> a masterpiece of ideas, invention, and language, but it takes conventional assumptions about gender and grinds them into a fine, powdery dust. Published in 1969, the book won both the Hugo and Nebula Awards and went on to become one of the keystones of science fiction. It tells the story of an ethnologist sent to another planet, but it is Le Guin's powers of imagination that turn <em>The Left Hand of Darkness</em> into something truly transcendent.
+            <strong>&ndash; <a href="/staff-picks/mary-jo-s">Mary Jo</a></strong></p>
+            </div>
+            <br clear="all" />
+            <div class="readbefore_box">
+            <div class="readbefore_cover">
+            <a href="/book/lolita-9780679723165" rel="powells-9780679723165"><img src="http://covers.powells.com/9780679723165.jpg" style="border: 1px solid #a0a0a0;" alt="Lolita" /></a></div>
+            <h3><a href="/book/lolita-9780679723165"> Lolita </a></h3>
+            <p class="author">by Vladimir Nabokov </p>
+            <p class="blurb">Why should everyone read a book about a pedophile's obsessive and frankly gross relationship with a little girl? Because if you are a reader &mdash; a lover of words, puns, witticisms, metaphors, and allusions &mdash; <em>Lolita</em> is a literary masterpiece that can't be passed over in a fit of queasy morality. Humbert Humbert, the novel's unreliable narrator, knows that he's a despicable pervert and yet the reader can't help enjoying him as he surveys post-war America and little Lolita with the droll, cynical eye of a European expat adrift in a tawdry nation, and stuck irrevocably &mdash; and irredeemably &mdash; in the memory of an adolescent love affair. Please, ignore the critics: <em>Lolita</em> isn't a morality tale and it isn't a love story. It's an unabashed look at a deviant mind written in some of the most deft and beautiful English ever published.
+            <strong>&ndash; <a href="/staff-picks">Rhianna</a></strong></p>
+            </div>
+            <div class="readbefore_box">
+            <div class="readbefore_cover">
+            <a href="/book/mans-search-for-meaning-9780807014271" rel="powells-9780807014271"><img src="http://covers.powells.com/9780807014271.jpg" style="border: 1px solid #a0a0a0;" alt="Man's Search for Meaning" /></a></div>
+            <h3><a href="/book/mans-search-for-meaning-9780807014271"> Man's Search for Meaning </a></h3>
+            <p class="author">by Viktor E. Frankl </p>
+            <p class="blurb"><em>Man's Search for Meaning</em> is like nothing you've ever read before. The first half of the book depicts Dr. Frankl's four years losing everything in concentration camps &mdash; a description so hellish, it leaves you desolate. Shattered by his Holocaust experiences, Frankl struggles to survive after he is freed. In the second half of the book, Frankl shows how that period of his life informs and develops his theory of "logotherapy" &mdash; he asserts that life is about finding meaning, what is meaningful to each individual. As excruciating as his experiences are, Frankl's theory is full of love; he is able to find redemption for himself and others. This book is beautifully life-changing.
+            <strong>&ndash; <a href="/staff-picks">Dianah</a></strong></p>
+            </div>
+            <div class="readbefore_box">
+            <div class="readbefore_cover">
+            <a href="/book/maus-a-survivors-tale-9780394747231" rel="powells-9780394747231"><img src="http://covers.powells.com/9780394747231.jpg" style="border: 1px solid #a0a0a0;" alt="Maus" /></a></div>
+            <h3><a href="/book/maus-a-survivors-tale-9780394747231"> Maus </a></h3>
+            <p class="author">by Art Spiegelman </p>
+            <p class="blurb">The twofold brilliance of Art Spiegelman's groundbreaking, autobiographical <em>Maus</em> is the graphic novel's lack of sentimentality and Spiegelman's self-portrait as a secondhand Holocaust survivor. The Holocaust is a widely used trope in Jewish American writing and although Spiegelman treats the subject with the compassion and historical sensitivity it merits, <em>Maus</em> avoids the themes of victimization and historical exceptionalism that render much Holocaust literature precious and insulated from the present. Instead, Spiegelman gives his characters the dignity of fully fleshed, complicated personalities and shows &mdash; in sometimes painful and unappealing ways &mdash; how his parents' Holocaust seeped into his childhood and haunts his being.
+            <strong>&ndash; <a href="/staff-picks">Rhianna</a></strong></p>
+            </div>
+            <div class="readbefore_box">
+            <div class="readbefore_cover">
+            <a href="/book/never-let-me-go-9781400078776" rel="powells-9781400078776"><img src="http://covers.powells.com/9781400078776.jpg" style="border: 1px solid #a0a0a0;" alt="Never Let Me Go" /></a></div>
+            <h3><a href="/book/never-let-me-go-9781400078776"> Never Let Me Go </a></h3>
+            <p class="author">by Kazuo Ishiguro </p>
+            <p class="blurb">This is the kind of book that captures you so completely you find yourself reading it at work with the book covering your keyboard, hoping no one notices but also not really caring if you get fired. It's a subtle sci-fi story about youth, freedom, and a lot of other good stuff &mdash; too much more about the plot might take something away from the magical, transformative experience of reading it. Instead, I will say that the honest way <em>Never Let Me Go</em> deals with love and disappointment makes it a book that anyone who ever plans to love another person should probably read immediately.
+            <br />
+            <strong>&ndash; <a href="/staff-picks">Lizzy</a></strong></p>
+            </div>
+            <div class="readbefore_box">
+            <div class="readbefore_cover">
+            <a href="/book/peoples-history-of-the-united-states-1492-present-9780060838652" rel="powells-9780060838652"><img src="http://covers.powells.com/9780060838652.jpg" style="border: 1px solid #a0a0a0;" alt="A People's History of the United States" /></a></div>
+            <h3><a href="/book/peoples-history-of-the-united-states-1492-present-9780060838652"> A People's History of the United States </a></h3>
+            <p class="author">by Howard Zinn </p>
+            <p class="blurb">While some of the revelations contained within this classic by Howard Zinn have become familiar since the nearly 35 years after it was published (thanks in part to this book), it is to this day an astonishing and eye-opening read. Several revisions later, it remains a seminal work, in stark contrast to the whitewashed (pun intended) American history most of us learned by rote in school. It's regretful with Zinn's passing in 2010 that new revisions have ceased for future generations to discover.
+            <br />
+            <strong>&ndash; <a href="/staff-picks/jen-c">Jen C.</a></strong></p>
+            </div>
+            <br clear="all" />
+            <div class="readbefore_box">
+            <div class="readbefore_cover">
+            <a href="/book/phantom-tollbooth-9780394815008" rel="powells-9780394815008"><img src="http://covers.powells.com/9780394815008.jpg" style="border: 1px solid #a0a0a0;" alt="The Phantom Tollbooth" /></a></div>
+            <h3><a href="/book/phantom-tollbooth-9780394815008"> The Phantom Tollbooth </a></h3>
+            <p class="author">by Norton Juster </p>
+            <p class="blurb"><em>The Phantom Tollbooth</em> is the story of Milo, a very bored boy who comes home one day to find a magical tollbooth in his room. When Milo drives his car through the tollbooth gate, he finds himself in the Lands Beyond, a country inhabited by living language in the forms of animals, magicians, royalty, mountains, seas, and cities. From Tock the Watchdog to the listless region of The Doldrums, Milo shakes off boredom as he pursues the kidnapped Princesses Rhyme and Reason and restores peace to the Lands (currently in the clutches of the warring princes, Azaz of Dictionopolis and the Mathemagician of Digitopolis, along with a pack of demons). What sets <em>The Phantom Tollbooth</em> apart from other wonderful swashbuckling middle-readers is that it's also about the transformative power of language: open a book (or drive through a "tollbooth") and even the dreariest day dissolves into the din and glory of adventure.
+            <strong>&ndash; <a href="/staff-picks">Rhianna</a></strong></p>
+            </div>
+            <div class="readbefore_box">
+            <div class="readbefore_cover">
+            <a href="/book/poems-9780374532369" rel="powells-9780374532369"><img src="http://covers.powells.com/9780374532369.jpg" style="border: 1px solid #a0a0a0;" alt="Poems" /></a></div>
+            <h3><a href="/book/poems-9780374532369"> Poems</a></h3>
+            <p class="author">by Elizabeth Bishop </p>
+            <p class="blurb">Elizabeth Bishop's poetry is dearly loved amongst her fans but perhaps not as well-known as it should be; for one of America's towering talents of the 20th century, she is not read nearly as much as Eliot or Whitman, or even cummings. That may be in part because of her relatively slim output &mdash; this volume of all her poetic works clocks in at only 368 pages. But the care she took with her poetry is evident; every word is perfectly chosen, none wasted or missing. Her work is fiercely intelligent, poignant, surprising, plainspoken, and wrought from imagery both familiar and extraordinary. A must-read for anyone who is interested in poetry, language, or indeed literature at all, Bishop's <em>Poems</em> speaks deeply to what makes us human.
+            <strong>&ndash; <a href="/staff-picks/jill-owens">Jill</a></strong></p>
+            </div>
+            <div class="readbefore_box">
+            <div class="readbefore_cover">
+            <a href="/book/slaughterhouse-five-or-the-childrens-crusade-a-duty-dance-with-death-9780385333849" rel="powells-9780385333849"><img src="http://covers.powells.com/9780385333849.jpg" style="border: 1px solid #a0a0a0;" alt="Slaughterhouse-Five" /></a></div>
+            <h3><a href="/book/slaughterhouse-five-or-the-childrens-crusade-a-duty-dance-with-death-9780385333849"> Slaughterhouse-Five </a></h3>
+            <p class="author">by Kurt Vonnegut </p>
+            <p class="blurb">What Kurt Vonnegut set out to do was write a book about war, and in particular the firebombing of Dresden in World War II. What he ended up doing was writing clean <em>around</em> it &mdash; traveling in and out of time warps, bouncing on and off the earth, sometimes setting down on the planet Tralfamadore, millions of miles away from Dresden and millions of miles away from war. What he created was a masterpiece of satire in which every crazy, clever moment, every whimsical line, no matter how deceptively light, is imbued with the sorrow and the starkness of the atrocity Vonnegut himself witnessed in that very real war.
+            <strong>&ndash; <a href="/staff-picks/gigi-l">Gigi</a></strong></p>
+            </div>
+            <br clear="all" />
+            <div class="readbefore_box">
+            <div class="readbefore_cover">
+            <a href="/book/things-fall-apart-9780385474542" rel="powells-9780385474542"><img src="http://covers.powells.com/9780385474542.jpg" style="border: 1px solid #a0a0a0;" alt="Things Fall Apart" /></a></div>
+            <h3><a href="/book/things-fall-apart-9780385474542">Things Fall Apart</a></h3>
+            <p class="author">by Chinua Achebe </p>
+            <p class="blurb">Before <em>Things Fall Apart</em> was published in 1958, few novels existed in English that depicted African life from the African perspective. And while the book has paved the way for countless authors since, Chinua Achebe's illuminating work remains a classic of modern African literature. Drawing on the history and customs passed down to him, Achebe tells the tale Okonkwo, a strong-willed member of a late-19th-century Nigerian village. As we follow Okonkwo's story, we get a glimpse of the intricacies of village life and the complex social structures that come into play. We then see the devastating effects of European colonization on the region and on Okonkwo himself, whose rise and fall become intertwined with the changing power dynamics. <em>Things Fall Apart</em> is essential reading for anyone who wants a more nuanced understanding of other ways of life, of culture clashes, of what being civilized really entails.
+            <strong>&ndash; <a href="/staff-picks/renee-p">Renee</a></strong></p>
+            </div>
+            <div class="readbefore_box">
+            <div class="readbefore_cover">
+            <a href="/book/to-kill-a-mockingbird-9780061120084" rel="powells-9780061120084"><img src="http://covers.powells.com/9780061120084.jpg" style="border: 1px solid #a0a0a0;" alt="To Kill a Mockingbird" /></a></div>
+            <h3><a href="/book/to-kill-a-mockingbird-9780061120084">To Kill a Mockingbird</a></h3>
+            <p class="author">by Harper Lee </p>
+            <p class="blurb">While <em>To Kill a Mockingbird</em> is a favorite book of pretty much everyone who has read it, it's important to remember that it continues to be subversive and challenging to the status quo. The protagonist is a young girl named Scout and except for her father, all the main characters in the book are marginalized by the power structure of their town &mdash; a structure that still exists nearly everywhere &mdash; where wealthy white men control the lives of everyone else, and even the members of that group who want to use their status for something honorable, like Scout's father Atticus, cannot win against the flattening wave of that power. Until something about that structure really changes, this book will remain required reading for every person in America.
+            <strong>&ndash; <a href="/staff-picks">Lizzy</a></strong></p>
+            </div>
+            <div class="readbefore_box">
+            <div class="readbefore_cover">
+            <a href="/book/where-the-wild-things-are-9780060254926" rel="powells-9780060254926"><img src="http://covers.powells.com/9780060254926.jpg" style="border: 1px solid #a0a0a0;" alt="Where the Wild Things Are" /></a></div>
+            <h3><a href="/book/where-the-wild-things-are-9780060254926">Where the Wild Things Are</a></h3>
+            <p class="author">by Maurice Sendak </p>
+            <p class="blurb">We all hold our favorite childhood books dear, but there's a reason <em>Where the Wild Things Are</em> is one of the most beloved picture books of all time. Of course it's about Maurice Sendak's whimsy, his spare poetry, his imagination. Of course it's about his impeccably detailed illustrations, depicting the beauty of a night of wild rumpus and the elegant fiendishness of wild things who gnash their terrible teeth and roll their terrible eyes. But mostly I think it's because underneath the boundless (yet beautifully bounded) inventiveness of Sendak's world, we see &mdash; and remember &mdash; exactly what it is to be a child.
+            <strong>&ndash; <a href="/staff-picks/gigi-l">Gigi</a></strong></p>
+            </div>
+            <div class="readbefore_box">
+            <div class="readbefore_cover">
+            <a href="/book/wind-up-bird-chronicle-9780679775430" rel="powells-9780679775430"><img src="http://covers.powells.com/9780679775430.jpg" style="border: 1px solid #a0a0a0;" alt="The Wind-Up Bird Chronicle" /></a></div>
+            <h3><a href="/book/wind-up-bird-chronicle-9780679775430"> The Wind-Up Bird Chronicle</a></h3>
+            <p class="author">by Haruki Murakami </p>
+            <p class="blurb">Known for his beautiful, haunting, lyrical, and &mdash; at times &mdash; funny surrealistic stylings, Haruki Murakami is one of the most beloved Japanese authors in the Western world. Although infused with the pop culture of the West, his writing remains at its core firmly rooted in Japan. And as modern as his style is, his work draws upon the country's past while delving deep into the Japanese psyche. <em>The Wind-Up Bird Chronicle</em> is pure Murakami &mdash; a vast, enchanting mystery filled with dreamlike surrealism. Considered by many to be his best work, the novel tackles themes as varied as the nature of consciousness, romantic disappointment, and the lingering wounds of World War II. Readers will eagerly want to unravel this intricate, multi-layered tale.
+            <strong>&ndash; <a href="/staff-picks/jen-c">Jen C.</a> </strong></p>
+            </div>
+            <hr align="left" />
+            <br clear="all" />
+            <h4>Also by Powell's Staff</h4>
+            &bull; <a href="http://www.powells.com/post/lists/25-memoirs-to-read-before-you-die"><strong>25 Memoirs to Read Before You Die</strong></a><br />
+            &bull; <a href="http://www.powells.com/25-women-to-read-before-you-die"><strong>25 Women to Read Before You Die</strong></a><br />
+            &bull; <a href="http://www.powells.com/post/lists/25-books-to-read-before-you-die-world-edition"><strong>25 Books to Read Before You Die: World Edition</strong></a><br />
+            &bull; <a href="http://www.powells.com/post/lists/powells-midyear-roundup-best-books-of-2017-so-far"><strong>Best Books of 2017 So Far</strong></a><br />
+            </td>
+        </tr>
+    </tbody>
+</table>
+<br clear="all" />
+</div>
+</div>
+
+</div><!-- End_Module_10304 --></div>
+</div>
+
+
+
+</div><div class="DnnModule DnnModule-DNN_HTML DnnModule-447"><a name="447"></a>
+
+<!-- Classic Powell's Containers | Invisible Container | 01.00.00 -->
+<div class="invisible">
+    <div id="dnn_ctr447_ContentPane"><!-- Start_Module_447 --><div id="dnn_ctr447_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	
+<div id="dnn_ctr447_HtmlModule_lblContent" class="Normal">
+	<div class="dontmiss">
+<h4><a href="/promotions" onclick="ga('send', 'event', 'leftmargin', 'leftmargindontmiss');">Don't Miss</a></h4>
+<div class="powells ">
+<ul>
+    <li style="list-style-type: none;"><a href="/post/lists/what-im-giving" class="dontmiss" onclick="ga('send', 'event', 'promotions', 'leftmargin', 'what im giving');">What I'm Giving</a></li>
+    <li style="list-style-type: none;"><a href="/signed-editions" class="dontmiss" onclick="ga('send', 'event', 'promotions', 'leftmargin', 'signed editions');">Featured Signed Editions</a></li>
+    <li style="list-style-type: none;"><a href="/picks-of-the-season-2017" class="dontmiss" onclick="ga('send', 'event', 'promotions', 'leftmargin', 'picks of the season');">Powell's Picks of the Season</a></li>
+    <li style="list-style-type: none;"><a href="/great-gifts" class="dontmiss" onclick="ga('send', 'event', 'promotions', 'leftmargin', 'great gifts');">Great Gifts Under $15 &amp; $25</a></li>
+    <li style="list-style-type: none;"><a href="/kids-graphic-novels" class="dontmiss" onclick="ga('send', 'event', 'promotions', 'leftmargin', 'Kids Graphic Novels');">Kids' Graphic Novels</a></li>
+    <li style="list-style-type: none;"><a href="/winter-sale" class="dontmiss" onclick="ga('send', 'event', 'promotions', 'leftmargin', 'winter sale');">Winter B2G1 Free Sale</a></li>
+    <li style="list-style-type: none;"><a href="/souvenirs" class="dontmiss" onclick="ga('send', 'event', 'promotions', 'leftmargin', 'Powell's Souvenirs');">Powell's Souvenirs</a></li>
+    <li style="list-style-type: none;"><a href="/digital-audio-books" class="dontmiss" onclick="ga('send', 'event', 'promotions', 'leftmargin', 'libro.fm');">Libro.fm Audiobooks</a></li>
+</ul>
+</div>
+</div>
+<!-- Begin visit our stores -->
+<div>
+<hr class="margin-social" />
+<div class="homechunk">
+<h4><a href="/locations" onclick="ga('send', 'event', 'leftmargin', 'locations');">Visit Our Stores<br />
+<img alt="" style="padding-top: 6px;" src="/portals/0/burnside-store-front-2015.jpg" /></a> </h4>
+</div>
+</div>
+<!-- end visit our stores -->
+</div>
+
+</div><!-- End_Module_447 --></div>
+</div>
+
+
+
+</div></div>
+            </div>
+          </div>
+        </div>
+        <!--footer --> 
+        <div id="footer" class="clearfix">
+  <div class="footer_top">
+    <div id="dnn_Footer_TopPane" class="DNNEmptyPane"> </div>
+  </div>
+  <div class="footer_bottom">
+    <div class="footer_leftbox">
+      <div id="dnn_Footer_LeftPane" style="width:216px;"> <div class="DnnModule DnnModule-DNN_HTML DnnModule-13792"><a name="13792"></a>
+
+<!-- Classic Powell's Containers | Invisible Container | 01.00.00 -->
+<div class="invisible">
+    <div id="dnn_ctr13792_ContentPane"><!-- Start_Module_13792 --><div id="dnn_ctr13792_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	
+<div id="dnn_ctr13792_HtmlModule_lblContent" class="Normal">
+	<style type="text/css">
+    ul.footersocial {margin-top: 0px; list-style-type: none; display: inline;}
+    ul.footersocial img{margin-right: 11px; border-width: 0px; width: auto; max-width: 40px; height: auto; max-height: 40px;}
+    ul.footersocial li{
+    float: left;
+    }
+    ul.footersocial a{
+    display: block;
+    }
+</style>
+<ul class="footersocial">
+    <li><a href="http://twitter.com/Powells" target="_blank">
+    <img alt="Twitter" src="/Product%20Images/COVERS/twitter.gif" />
+    </a></li>
+    <li><a href="https://www.facebook.com/powellsbooks" target="_blank">
+    <img alt="Facebook" src="/Product%20Images/COVERS/facebook.gif" />
+    </a></li>
+    <li><a href="http://powells.tumblr.com/" target="_blank">
+    <img alt="Tumblr" src="/Product%20Images/COVERS/tumblr.gif" />
+    </a></li>
+    <li><a href="https://instagram.com/powellsbooks/" target="_blank">
+    <img alt="Instagram" src="http://www.powells.com/portals/0/images/instagram-2016.gif" style="border-width: 0px; width: 20px; height: 20px;" />
+    </a></li>
+</ul>
+<div style="clear: both;"></div>
+<br />
+</div>
+
+</div><!-- End_Module_13792 --></div>
+</div>
+
+
+
+</div></div>
+    </div>
+    <div class="footer_righttbox">
+      <div id="dnn_Footer_RightPane"> <div class="DnnModule DnnModule-DNN_HTML DnnModule-452"><a name="452"></a>
+
+<!-- Classic Powell's Containers | Invisible Container | 01.00.00 -->
+<div class="invisible">
+    <div id="dnn_ctr452_ContentPane"><!-- Start_Module_452 --><div id="dnn_ctr452_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	
+<div id="dnn_ctr452_HtmlModule_lblContent" class="Normal">
+	<style type="text/css">
+    ul.footer li {
+    display: inline;
+    width: 90px;
+    text-align: left;
+    float: left;
+    text-decoration: none;
+    border-right: #cac8c9 solid 1px;
+    margin-left: 10px;
+    }
+</style>
+<div style="margin-top: 0px; max-width: 500px;" id="footer" role="contentinfo">
+<ul class="footer">
+    <li><a href="/info/help">Help</a></li>
+    <li><a target="_self" href="/info/guarantee">Guarantee</a></li>
+    <li><a href="/myaccount">My Account</a></li>
+    <li><a href="http://tbe.taleo.net/CH07/ats/careers/jobSearch.jsp?org=POWELLS&amp;cws=1">Careers</a>
+    </li>
+    <li><a href="/info/about-us">About Us
+    </a></li>
+    <li><a target="_self" href="/info/privacy">Security</a></li>
+    <li><a target="_self" href="/myaccount/wishlist/publicwishlist">Wish List</a></li>
+    <li><a href="/partner-program">Partners</a></li>
+    <li><a target="_self" href="/info/contact-us">Contact Us</a></li>
+    <li><a target="_self" href="/info/shipping">Shipping</a></li>
+    <li><a href="/myaccount/newsletters">Newsletters</a></li>
+    <li><a href="/info/sitemap">Sitemap</a></li>
+    <li style="margin-top: 10px; font-size: 11px; text-transform: uppercase; clear: left; width: 190px;">&copy; 2017 POWELLS.COM <a href="/info/terms-of-use"> Terms</a></li>
+    <li style="border-right: medium none; margin-top: 10px; text-transform: uppercase; font-size: 13px;"><a style="border-left: 0px none;" class="tel" href="tel:18008787323"><span style="text-transform: uppercase; border-left: 0px none; font-size: 13px;">800-878-7323</span></a></li>
+</ul>
+</div>
+<br />
+</div>
+
+</div><!-- End_Module_452 --></div>
+</div>
+
+
+
+</div></div>
+    </div>
+  </div>
+</div>
+ 
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+
+        <input name="ScrollTop" type="hidden" id="ScrollTop" />
+        <input name="__dnnVariable" type="hidden" id="__dnnVariable" autocomplete="off" />
+        
+    </form>
+    
+    
+     <script type="text/javascript" language="javascript">
+     (function (global, $) {
+
+             $(document).ready(function () {
+
+                 // this will find ALL tables within ALL comboboxes
+                 var $table = $(".RadComboBox").children("table");
+
+                 // this removes the summary from all found tables
+                 $table.removeAttr("summary");
+                 $table.attr("role", "presentation");
+
+             });
+
+             $(document).ready(function () {
+
+                 // this will find ALL tables within ALL comboboxes
+                 var $a = $(".rcbArrowCell").children("a");
+
+                 // this removes the summary from all found tables
+                 // $table.removeAttr("summary");
+                 $a.attr("role", "button");
+
+             });
+         })(window, $telerik.$);
+                                
+                                   $(document).ready(function () {
+
+                 // this will find ALL tables within ALL comboboxes
+                 var $t = $("#content").find("table");
+
+                 // this removes the summary from all found tables
+                
+                 $t.attr("role", "presentation");
+
+             });
+                                                
+                                   $(document).ready(function () {
+
+                 // this will find ALL tables within ALL comboboxes
+                 var $ol = $("#content").find("ol");
+
+                 // this removes the summary from all found tables
+                
+                 $ol.attr("role", "presentation");
+
+             });
+                                                   $(document).ready(function () {
+
+                 // this will find ALL tables within ALL comboboxes
+                 var $ol = $("#content").find("ul");
+
+                 // this removes the summary from all found tables
+                
+                 $ol.attr("role", "presentation");
+
+             });
+         toggleSiteAdmin();
+         //]]>
+    </script>
+	<script type="text/javascript">
+	/* <![CDATA[ */
+		var google_conversion_id = 1071649651;
+		var google_custom_params = window.google_tag_params;
+		var google_remarketing_only = true;
+	/* ]]> */
+	</script>
+	<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+	</script>
+	<noscript>
+		<div style="display:inline;">
+		<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1071649651/?guid=ON&amp;script=0"/>
+		</div>
+	</noscript>
+</body>
+</html>
